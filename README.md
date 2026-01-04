@@ -1,11 +1,7 @@
 # 📌 Customer-segmentation-for-targeted-marketing-campaigns
 A corporate has decided to segment its customers into homogeneous groups based on their spending behaviour and credit card usage.
 
-
-#  E-commerce sales analysis
-A mid-size European e-commerce wants to improve sales performance and customer retention.  
-
-This project analyses a dataset provided by Profession AI during the Master's degree in Data Analysis with the aim of applying customer segmentation using the machine learning technique of clustering.
+This project analyzes a dataset provided by Profession AI during the Master's in Data Analysis with the aim of applying clustering techniques to obtain clusters based on customers' credit card usage.
 
 ---
 
@@ -13,24 +9,14 @@ This project analyses a dataset provided by Profession AI during the Master's de
 ```
 E-commerce-sales-analysis/
 │── data/
-      ├── Original data
-      ├── Edited data
+      ├── credit_card_customers.csv
 │── images/
-      ├── Business insights
       ├── Distributions
+      ├── Correlation matrix
       ├── Clustering
-      ├── RFM Insights
-│── tableau/
-      ├── E-commerce_sales_analysis.twbx
-      ├── Link to Tableau Public
-│── powerbi/
-      ├── E-commerce_sales_analysis.pbi
-      ├── E-commerce_sales_analysis.pdf
-│── sql/               
-│     ├── Data_Cleaning.sql
-│     ├── Data_Modeling.sql
 │── python/
-      │──RFM Segmentation of an E-commerce customers.ipynb.
+      │──Clustering_credit_card.ipynb
+      │──Clustering_credit_card.py
 │── README.md
 ```
 
