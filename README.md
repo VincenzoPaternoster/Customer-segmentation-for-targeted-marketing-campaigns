@@ -21,10 +21,12 @@ E-commerce-sales-analysis/
 ```
 
 ## 🎯 Project objectives
-- 1. Perform clustering in order to segment the bank's customers based on the use of cards linked to:
+- 1) Perform clustering in order to segment the bank's customers based on the use of cards linked to:
   
       a) Average spending
+
       b) Payment habits
+
       c) Frequency of use
 
   ---
