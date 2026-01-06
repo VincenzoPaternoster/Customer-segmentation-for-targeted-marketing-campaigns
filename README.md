@@ -7,7 +7,7 @@ This project analyzes a dataset provided by Profession AI during the Master's in
 
 ## 📂 Repository Structure
 ```
-E-commerce-sales-analysis/
+Customer-segmentation-for-targeted-marketing-campaigns/
 │── data/
       ├── credit_card_customers.csv
 │── images/
