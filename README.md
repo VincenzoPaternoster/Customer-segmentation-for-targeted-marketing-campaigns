@@ -1,5 +1,5 @@
 # 📌 Customer-segmentation-for-targeted-marketing-campaigns
-A corporate has decided to segment its customers into homogeneous groups based on their spending behaviour and credit card usage.
+A company has decided to segment its customers into homogeneous groups based on their spending behavior and credit card usage. 
 
 This project analyzes a dataset provided by Profession AI during the Master's in Data Analysis with the aim of applying clustering techniques to obtain clusters based on customers' credit card usage.
 
